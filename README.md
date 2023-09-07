@@ -1,7 +1,7 @@
 
 ## Kaggle Competition. Predict the yoga pose correctly!
 
-[![Open in Colab](https://camo.githubusercontent.com/)](https://colab.research.google.com/drive/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-agency/kaggle-yoga-pose-prediction/blob/main/yoga-pose-movenet.ipynb)
 
 Human pose estimation is a well-known problem in computer vision to locate joint positions. The application of pose estimation for yoga is challenging as it involves a complex configuration of postures.
 
