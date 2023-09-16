@@ -1,11 +1,15 @@
 
-## Kaggle Competition. Predict the yoga pose correctly!
+## Yoga Pose Estimation - Kaggle Competition 
+### Predict the yoga pose correctly!
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-agency/kaggle-yoga-pose-prediction/blob/main/yoga-pose-movenet.ipynb) [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/alex-agency/kaggle-yoga-pose-prediction/blob/main/yoga-pose-movenet.ipynb)
 
+### Description
+Yoga, a practice known for its physical and mental benefits, gained widespread popularity, particularly during the past two years amid the global pandemic. With more people practicing yoga at home, the importance of correct posture during yoga sessions became paramount. This Kaggle competition tackled the challenge of human pose estimation in yoga, aiming to accurately classify various yoga asanas (poses) from images.
+
 Human pose estimation is a well-known problem in computer vision to locate joint positions. The application of pose estimation for yoga is challenging as it involves a complex configuration of postures.
 
-In this competition, pose estimation is formulated as a classification task, and it is necessary to classify different yoga asanas into distinct classes.
+The competition framed the pose estimation as a classification task, with the goal of achieving high Mean F1 scores. The dataset consisted of images of different yoga poses, each labeled with its corresponding class based on the practitioner's posture. The complexity of yoga poses, including horizontal body postures and overlapping limbs, made this task particularly challenging.
 
 ### Data Set
 The dataset has pictures of different yoga poses and the class to which it belongs. There are a total of 6 classes based on the posture of the person performing the asana.
